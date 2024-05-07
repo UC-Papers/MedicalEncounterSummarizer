@@ -11,5 +11,5 @@ def home():
 
 
 if __name__ == "__main__":  # on running python app.py
-    Schema()
+    # Schema()
     app.run()  # run the flask app
